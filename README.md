@@ -1,2 +1,2 @@
-# Flickr Photoss
+# Flickr Photos
 
